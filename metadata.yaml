@@ -1,0 +1,29 @@
+_repo: Het-Anarchisme-in-de-Arbeidersbeweging_63362
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Loopuit, Jos.
+    alias: Loopuit, Joseph
+    birthdate: 1864
+    deathdate: 1923
+    gutenberg_agent_id: '39747'
+    url: http://www.gutenberg.org/2009/agents/39747
+description: ''
+gutenberg_issued: '2020-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63362'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Working class'
+- !lcsh 'Anarchism'
+- !lcsh 'Anarchists'
+- !lcsh 'Labor'
+- !lcsh 'Labor movement'
+- GITenberg
+title: Het Anarchisme in de Arbeidersbeweging
+url: http://www.gutenberg.org/ebooks/63362
